@@ -5,7 +5,8 @@ Aider、Cline、Continue 或 OpenCode 的代码片段、日志和任务记录，
 接力包，再生成适配目标工具的继续执行提示词。
 
 项目对应 [Tencent-Hunyuan/Hy3 Issue #2](https://github.com/Tencent-Hunyuan/Hy3/issues/2)，
-核心能力由 `hy3` 的推理与结构化生成驱动。
+核心能力由 `hy3` 的推理与结构化生成驱动。五个 AI 编程工具的实测接入指南见
+[Hy3 PR #193](https://github.com/Tencent-Hunyuan/Hy3/pull/193)。
 
 演示视频：[`demo.mp4`](demo.mp4)（57.7 秒，本地完整流程）。
 
